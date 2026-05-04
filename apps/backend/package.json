@@ -1,0 +1,13 @@
+{
+  "name": "smartmart-backend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "@fastify/cors": "^9.0.1"
+  }
+}
