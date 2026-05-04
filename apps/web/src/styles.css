@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; }
+.container { max-width: 640px; margin: 48px auto; background: #fff; padding: 24px; border-radius: 12px; }
+.online { color: #1c7c2e; }
+.offline { color: #b42318; }
+button { background: #0a66c2; color: #fff; border: 0; padding: 10px 16px; border-radius: 8px; cursor: pointer; }
+.note { margin-top: 16px; color: #475467; }
